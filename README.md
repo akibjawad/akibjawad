@@ -1,4 +1,5 @@
 ## Hi there 👋
+This is Akib, an engineer and a researcher who is enthusiastic about low level softwares such as Operating Systems, and Networking. 
 
 <!--
 **akibjawad/akibjawad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
