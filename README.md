@@ -9,7 +9,7 @@ Hence, my software development activity involves working on a variety of platfor
 
 - #### User Layer: Full-stack web development, Mobile (iOS/Android) application development
     - Web Stack: React.js, Django, AWS EC2, AWS S3, Nginx, PhP, MySQL, SQLite, MongoDB
-    - Mobile Applicaiton Stack: RxSwift, Objective C, Networking libraries such as URLSession, Multi-threading with GrandCentralDispatch, RxJava, Android Service, AsyncTask
+    - Mobile Applicaiton Stack: RxSwift, RxJava, Objective C, Networking and multi-threading libraries on iOS and Android
 <!-- At the user layer, my expertise lies on: 
 - Full-stack web development with React.js, Django, AWS EC2, AWS S3, Nginx, PhP, MySQL, SQLite, MongoDB 
 - iOS development with RxSwift, Objective C, Networking libraries such as URLSession, Multi-threading with GrandCentralDispatch 
